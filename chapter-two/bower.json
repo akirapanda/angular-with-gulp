@@ -1,0 +1,15 @@
+{
+  "name": "ng-gulp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "ls"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.4",
+    "angular-ui-router": "^0.2.18"
+  }
+}
